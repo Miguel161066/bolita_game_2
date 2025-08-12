@@ -1,0 +1,2 @@
+rootProject.name = 'BolitaGame'
+include ':app'

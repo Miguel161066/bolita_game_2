@@ -1,0 +1,7 @@
+<resources>
+    <color name="background">#101214</color>
+    <color name="accent">#00D4FF</color>
+    <color name="accentDark">#0088AA</color>
+    <color name="text">#FFFFFF</color>
+    <color name="danger">#FF5C5C</color>
+</resources>
